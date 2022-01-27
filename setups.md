@@ -1,4 +1,4 @@
-# Avaiilable services and pipelines on my Raspberry PIs
+# Available services and pipelines on my Raspberry PIs
 
 ## Services/Features
 
@@ -15,7 +15,6 @@ S/F Name | RPI 3 | RPI 4 | RPI400
 **DITA** | x | - | -
 **Java** | x | x | x
 |
-
 ## Pipelines
 
 ## Pipelines
